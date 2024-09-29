@@ -1,4 +1,4 @@
-# Unity-BallRabyrinth
+# Unity-OfficeRoomEscape
 This is a Unity project for a VR (Virtual Reality) escape game from an office of my own creation. Please note that this project is intended for Quest as a HMD  (Head-Mounted Display) and cannot be run on other devices.
 
 <p align="center">
